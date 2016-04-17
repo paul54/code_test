@@ -1,2 +1,2 @@
 # code_test
-am learning
+am learning how to commit changes
